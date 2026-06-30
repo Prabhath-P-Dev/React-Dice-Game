@@ -17,7 +17,7 @@ A fun and strategic dice game built with **React**, **Vite**, and **Tailwind CSS
 * React
 * Vite
 * JavaScript (ES6+)
-* Tailwind CSS
+* CSS
 
 ## 🎮 How to Play
 
