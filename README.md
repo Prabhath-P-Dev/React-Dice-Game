@@ -10,7 +10,7 @@ A fun and strategic dice game built with **React**, **Vite**, and **Tailwind CSS
 * 🔟 10 attempts to complete the game
 * 🏆 Win when all 10 dice show the same number within 10 attempts you won otherwise it will result in a loss
 * 🔄 Start a new game with a single click
-* 📱 Responsive design built with Tailwind CSS
+  
 
 ## 🛠️ Tech Stack
 
