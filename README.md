@@ -55,9 +55,3 @@ npm install
 ```bash
 npm run dev
 ```
-
-5. Open the local URL shown in your terminal (usually `http://localhost:5173`).
-
-## 📸 Screenshots
-
-Add screenshots of your game here after uploading them to your repository.
